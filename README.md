@@ -32,5 +32,6 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 ## Mock Up<img width="1406" alt="portfolio-screenshot" src="https://user-images.githubusercontent.com/49068894/122281974-e074fe00-ceb8-11eb-8140-da169fef7567.png">
 <img width="1665" alt="responsive1" src="https://user-images.githubusercontent.com/49068894/122283162-431ac980-ceba-11eb-8fba-67040e4bb7b5.png">
-<img width="1677" alt="responsive2" src="https://user-images.githubusercontent.com/49068894/122283169-43b36000-ceba-11eb-99ee-2c94026b7057.png">
+<img width="1677" alt="responsive2" src="https://user-images.githubusercontent.com/49068894/122283169-43b36000-ceba-11eb-99ee-2c94026b7057.png">[Varuni Sinha Arts Journalist.mp4.zip](https://github.com/varunisinha/arts-journalist-portfolio/files/6665529/Varuni.Sinha.Arts.Journalist.mp4.zip)
+
 
